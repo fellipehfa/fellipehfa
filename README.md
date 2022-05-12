@@ -10,7 +10,8 @@
 ### About me
 
 - My name is Fellipe, I am a full stack developer and currently live in Brazil, working for a big company called Afya.
-- I work with development just a year, but i always played arround with code, I have experience with some technologies but I stand out with React and Typescript.
+- I work with development just a year, but I always played arround with code.
+- I have experience with some technologies but I stand out with React and Typescript/Javascript.
 - Before I became a developer I had my own business with construction for about four years, and when I started studying to make an app for my company, I couldn't stop coding, soo...Here I'm!
 
 ---
