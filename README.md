@@ -26,5 +26,7 @@
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=9400D3)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=9400D3)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=9400D3)
+![](https://img.shields.io/badge/Proxy-NGINX-informational?style=flat&logo=nginx&logoColor=white&color=9400D3)
+
 
 
