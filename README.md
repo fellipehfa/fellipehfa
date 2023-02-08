@@ -11,14 +11,16 @@
 
 - My name is Fellipe, I am a full stack developer and currently live in Brazil, working for a big company called Afya.
 - I work with development for about two years.
-- I have experience with some technologies but I stand out with React, Typescript/Javascript and node. Always using Docker or micro servicess.
-- Before I became a developer I had my own business with construction for about four years, and when I started studying to make an app for my company, I couldn't stop coding, soo...Here I'm!
+- I have experience with some technologies but I stand out with Typescript/Javascript, NodeJs and React. Always using Docker or micro servicess.
+- Before I became a developer I had my own business, working with construction for about four years, and when I started studying to make an app for my company, I couldn't stop coding.
 
 ---
 ### Technologies & Tools
 
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=9400D3)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=9400D3)
+![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=9400D3)
 ![](https://img.shields.io/badge/Code-Node.Js-informational?style=flat&logo=node.js&logoColor=white&color=9400D3)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=9400D3)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=9400D3)
