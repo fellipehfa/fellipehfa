@@ -4,16 +4,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fellipehfa/)](https://www.linkedin.com/in/fellipehfa/) 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-white?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/fellipehfa)](https://t.me/fellipehfa)
 
-
----
-
-### About me
-
-- My name is Fellipe, I am a full stack developer and currently live in Brazil, working for a big company called Afya.
-- I work with development for about two years.
-- I have experience with some technologies but I stand out with Typescript/Javascript, NodeJs and React. Always using Docker or micro servicess.
-- Before I became a developer I had my own business, working with construction for about four years, and when I started studying to make an app for my company, I couldn't stop coding.
-
 ---
 ### Technologies & Tools
 
